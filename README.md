@@ -13,3 +13,5 @@ This is my first work on ansible, it is an automation tool for cloud provisionin
 
 
 This all is done automatically on any number of system and one of the best things about it is, we don't have to mention "how to do it?" we just have to tell "what to do?".
+
+🎫Writeup: https://tinyurl.com/yxkoouvf
